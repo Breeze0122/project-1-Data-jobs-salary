@@ -27,12 +27,12 @@ Questions:
 
 The project included:
 
-1a. Box plot of the avg salary of experience level by country (top 5 according with the number of employees)
-1b. Bar plot of the avg salary according to the employment type 
-1c. Bar plot of the avg salary according to the remote ratio
-2. Scatter plot of the avg salary according with the employee residence and employment type (top 5 according with the number of employees)
-3. Bar plot of the salary according with the company size.
-4. Line plot of the avg salary by experience level through the years  (lines by experience level)
+1a. Box plot of the avg salary of experience level by country (top 5 according with the number of employees) - Ana Brissa
+1b. Bar plot of the avg salary according to the employment type - Santiago
+1c. Bar plot of the avg salary according to the remote ratio - Ana Brissa
+2. Scatter plot of the avg salary according with the employee residence and employment type (top 5 according with the number of employees) - sofia
+3. Bar plot of the salary according with the company size. -Santiago
+4. Line plot of the avg salary by experience level through the years  (lines by experience level) - Sofia
 5. Line plot of the number of employees of 
 
 
